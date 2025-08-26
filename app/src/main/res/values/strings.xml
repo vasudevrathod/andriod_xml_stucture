@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidStructure</string>
+    <string name="server_response_error" translatable="false">Server Response Error</string>
+    <string name="bad_request" translatable="false">Bad Request</string>
+    <string name="unauthorized" translatable="false">Unauthorized</string>
+    <string name="forbidden" translatable="false">Forbidden</string>
+    <string name="not_found" translatable="false">Not Found</string>
+    <string name="redirect_response_error" translatable="false">Redirect Response Error</string>
+    <string name="illegal_argument" translatable="false">Illegal Argument</string>
+    <string name="something_want_to_wrong" translatable="false">Something Went To Wrong</string>
+    <string name="no_internet_available" translatable="false">Please check your internet connection</string>
+</resources>
